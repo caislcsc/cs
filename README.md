@@ -1,6 +1,8 @@
 CAISL Computer Science Club 2016/2017
 ======================================
 
+Current Syllabus: __Creative Coding and Game Development I, Processing and p5.js: Creative Coding for the Visual Learners__
+
 Hi! Welcome to the Computer Science Club. In this afterschool activity we teach various courses, some of which include game development, cyber security, and mathematics simulations. We are also a friendly place that can help you improve your programming skills. Below you can find information to orient yourself and challenges to solve!
 
 What do we teach?
@@ -26,10 +28,14 @@ What do we teach?
  * Coding Challenges & Problem Solving
    * Using critical thinking and analytical skills
    * Experimenting with creativity
+  
+ * SQL & Database Management [In Progress]
+   * Learning SQL
+   * Understanding relational databases
    
- *To read more about each course, find its repository's readme.*
+ *To read more about each course, find its repository's README.*
  
- **Most of these units will have a Final Project that you will present to the rest of the club members. Let your creativity out!**
+ **Units will have a final project that you will present to the rest of the club members. This is your chance to let your creativity out!**
 
 This repository contains:
 
@@ -37,8 +43,6 @@ This repository contains:
   * Example code to supplement sessions
   * Additional projects and source code
   
-Current Syllabus: __Creative Coding and Game Development I, Processing and p5.js: Creative Coding for the Visual Learners__
-
 Class Info
 ----------
 * Reach us @: caislcsc@gmail.com
