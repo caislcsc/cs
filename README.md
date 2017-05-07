@@ -9,23 +9,23 @@ What do we teach?
  * Using useful online development platforms such as GitHub. Each person is free to use whichever IDE they are most comfortable with!
  
  * Introduction to Cyber Security
-  * Encryption, codebreaking, vulnerabilities, and basic pentesting
-  * Learning about the Web and its structure
-  * Familiarizing yourself with the Web's languages
+   * Encryption, codebreaking, vulnerabilities, and basic pentesting
+   * Learning about the Web and its structure
+   * Familiarizing yourself with the Web's languages
  
  * Technical Computer Science
-  * Defining important terms
-  * Learning about the development of the computer
+   * Defining important terms
+   * Learning about the development of the computer
  
  * Creative Coding & Visual Learning: Processing and p5.js
-  * Game Development
-  * Using rendering engines
-  * Integrating physics into simulations
-  * Visualizing mathematics and science algorithms
+   * Game Development
+   * Using rendering engines
+   * Integrating physics into simulations
+   * Visualizing mathematics and science algorithms
  
  * Coding Challenges & Problem Solving
-  * Using critical thinking and analytical skills
-  * Experimenting with creativity
+   * Using critical thinking and analytical skills
+   * Experimenting with creativity
    
  *To read more about each course, find its repository's readme.*
  
