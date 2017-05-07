@@ -8,14 +8,24 @@ What do we teach?
  
  * Using useful online development platforms such as GitHub. Each person is free to use whichever IDE they are most comfortable with!
  
- * Introduction to Cyber Security: A course that comprises the very basics of cybersecurity: Encryption, codebreaking, vulnerabilities,    and basic pentesting. On of this course's objectives is to make you think about a problem before diving into coding.
+ * Introduction to Cyber Security
+  * Encryption, codebreaking, vulnerabilities, and basic pentesting
+  * Learning about the Web and its structure
+  * Familiarizing yourself with the Web's languages
  
- * Technical Computer Science: This is a course that aims to help develop understanding in the basics of Technical Computer Science,        ranging from data types and components of computers to advanced data structures, searching, sorting, and parsing algorithms,            computational mathematics, and O Notation. The final project for this unit is: [Create an interpreter for a made up simple language?]
+ * Technical Computer Science
+  * Defining important terms
+  * Learning about the development of the computer
  
- * Game Development and Visual Learning: This course will be taught mainly in JavaScript, and it is divided in several sections. [INSERT    DESCRIPTION HERE @matiasilva, and other information on the sections]. This includes more advanced development techniques using          Threads, which will be taught in Java. The final project for this unit is: [Maybe make a simple 2D Game Engine or make a 2D Game]
+ * Creative Coding & Visual Learning: Processing and p5.js
+  * Game Development
+  * Using rendering engines
+  * Integrating physics into simulations
+  * Visualizing mathematics and science algorithms
  
- * We also have a section on problem solving, that is designed for you to improve your problem solving skills. Problems are usually        divided into three Dificulty levels: Easy, Medium, and Hard. They'll give you 1, 2, or 3 points respectively. You are to do these        problems at home, or not do them, it's up to you; but the more you practice, the better you'll be!
-   The solutions should be put on your github, and you should submit a link to it on a google forms. We will then check that it works,      and get back to you as soon as possible!
+ * Coding Challenges & Problem Solving
+  * Using critical thinking and analytical skills
+  * Experimenting with creativity
    
  *To read more about each course, find its repository's readme.*
  
