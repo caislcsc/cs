@@ -1,4 +1,4 @@
-CAISL Computer Science Club for year 2016/2017
+CAISL Computer Science Club 2016/2017
 ======================================
 
 Hi! Welcome to the Computer Science Club. In this afterschool activity we teach various courses, some of which include game development, cyber security, and mathematics simulations. We are also a friendly place that can help you improve your programming skills. Below you can find information to orient yourself and challenges to solve!
@@ -22,8 +22,7 @@ What do we teach?
 This repository contains:
 
   * Good examples of Projects from Students.
-  * Example code to supplement each session.
-  * Syllabi for courses [I feel like this should not be here. Github should be more oriented to source code.].
+  * Example code to supplement sessions.
   * Additional projects and source code.
   
 Current Syllabus: __Creative Coding and Game Development I, Processing and p5.js: Creative Coding for the Visual Learners__
@@ -40,4 +39,4 @@ Class Info
 * [Point System] (https://drive.google.com/open?id=19iVA5qKO7pvL7qv1oaqCtyiRqT29aEJWQmqpKF_kAO4)
 * [Example code] (http://codepen.io/hamlam)
 * [Request a Program / Help with homework Form] (https://goo.gl/forms/MYKisUII8rCcnuih1)
-* [Problem Submission Form] (https://goo.gl/forms/OHXlG3IAywUvqptO2)
+* [Problem Submission Form] (https://goo.gl/forms/SQfGuyi6UYdcv36I3)
