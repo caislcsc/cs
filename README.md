@@ -16,6 +16,8 @@ What do we teach?
  
  * We also have a section on problem solving, that is designed for you to improve your problem solving skills. Problems are usually        divided into three Dificulty levels: Easy, Medium, and Hard. They'll give you 1, 2, or 3 points respectively. You are to do these        problems at home, or not do them, it's up to you; but the more you practice, the better you'll be!
    The solutions should be put on your github, and you should submit a link to it on a google forms. We will then check that it works,      and get back to you as soon as possible!
+   
+ *To read more about each course, find its repository's readme.*
  
  **Most of these units will have a Final Project that you will present to the rest of the club members. Let your creativity out!**
 
