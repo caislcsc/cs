@@ -54,6 +54,6 @@ Class Info
 * [Resources and References] Email us for a link to the Drive folder
 * [Point System](https://drive.google.com/open?id=19iVA5qKO7pvL7qv1oaqCtyiRqT29aEJWQmqpKF_kAO4)
 * [Example code](http://codepen.io/hamlam)
-* [Request a Program & Help With Homework Form](https://goo.gl/forms/MYKisUII8rCcnuih1)
+* [Request a Program & Help With Homework Form](https://goo.gl/forms/5o5qiccxTlaJYBIC3)
 * [Problem Submission Form](https://goo.gl/forms/SQfGuyi6UYdcv36I3)
 * Note: Each person is free to use whichever IDE they are most comfortable with!
