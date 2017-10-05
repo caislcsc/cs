@@ -1,9 +1,9 @@
-CAISL Computer Science Club 2016/2017
+CAISL Computer Science Club 2017/2018
 ======================================
 
 Current Syllabus: __Creative Coding and Game Development I, Processing and p5.js: Creative Coding for the Visual Learners__
 
-Hi! Welcome to the Computer Science Club. In this afterschool activity we teach various courses, some of which include game development, cyber security, and mathematics simulations. We are also a friendly place that can help you improve your programming skills. Below you can find information to orient yourself and challenges to solve!
+Welcome to the Computer Science Club. We're glad that you're interested in learning more about the technology that is changing our world. The material we cover/teach will depend highly on what you want or need. To begin the year, we'll start with Processing, a Java development environment that makes visual coding a piece of cake! You are also welcome to help others or receive help with classes/projects.
 
 What do we teach?
  * Programming. Sessions will be taught using Java, Javascript, and maybe some Python; but you may use whatever language you'd like!
@@ -47,13 +47,13 @@ Class Info
 ----------
 * Reach us @: caislcsc@gmail.com
 * Matias Silva: hamlam@protonmail.com [First successor, 10th Grade, Current]
-* Tomás Belmar: tomasbelmarcosta@gmail.com [Co-Founder, 9th Grade, Current]
-* Kévin Porcheron: kevinalb12@gmail.com [Founder, 10th Grade, Semiretired] <- lmao
+* Tomás Belmar: tomasbelmarcosta@gmail.com [Co-Founder, 9th Grade, Retired]
+* Kévin Porcheron: kevinalb12@gmail.com [Founder, 10th Grade, Retired]
 * Sessions: Wednesdays, 4:00-5:00 PM 
-* Supervisor: Mr. Steve Blackwood, H.S. Math and Computer Science Teacher.
-* [Resources and References] Email us for a link to the Drive folder
-* [Point System](https://drive.google.com/open?id=19iVA5qKO7pvL7qv1oaqCtyiRqT29aEJWQmqpKF_kAO4)
-* [Example code](http://codepen.io/hamlam)
+* Supervisor: Mr. Marco Costa, IB Computer Science Teacher.
+* [Resources and References] Ask us for a link to the Drive folder
+* [Point System]
+* [Example code]
 * [Request a Program & Help With Homework Form](https://goo.gl/forms/5o5qiccxTlaJYBIC3)
 * [Problem Submission Form](https://goo.gl/forms/SQfGuyi6UYdcv36I3)
 * Note: Each person is free to use whichever IDE they are most comfortable with!
