@@ -1,4 +1,4 @@
-CAISL Computer Science Club 2017/2018
+Lisbon-Sintra Computer Science Club 2017/2018
 ======================================
 
 Current Syllabus: __Creative Coding and Game Development I, Processing and p5.js: Creative Coding for the Visual Learners__
